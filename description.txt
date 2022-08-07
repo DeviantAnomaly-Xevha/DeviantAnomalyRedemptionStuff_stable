@@ -1,0 +1,34 @@
+Built for tModLoader Alpha 1.4-stable.
+If you use 1.4-preview and have issues, you know why.
+
+<<THIS IS NOT THE MOD OF REDEMPTION!!>>
+The actual Redemption mod is not currently available through the mod browser, but you can acquire it in its current work-in-progress state by checking Discord.
+For Steam, here's your link: https://discord.gg/J25aSxCadz
+In-game, please click the Homepage button down below.
+Note that it's being worked on in the preview branch,
+so it may not build properly if it's been updated.
+
+
+
+This is a small mod containing just a few items:
+1) various vanity parts, mostly Xenomite-based,
+2) a "Xenomite Crystal Bomb" weapon
+(damage, DoTs, and projectile-reflecting crystal pillars)
+3) a "Xenomite Buster" weapon
+(damage, DoTs, chargeable, based on Mega Man X)
+4) walls crafted from regular Xenomite Shards
+(darkened Xenomite Shard tile edit, in safe and unsafe types)
+5)decorative laboratory laser tiles, in green and red colors
+(crafted with Laboratory Panels and gemspark blocks)
+6) accessories crafted from the primary vanity set parts
+(Xenomite immunity, upgraded with HEV suit (WIP),
+or poison/acid venom immunity without Redemption)
+
+The weapons can be upgraded as you progress.
+With Redemption, they apply Redemption's Xenomite debuffs.
+Without, they apply Poisoned, with a chance of Acid Venom.
+
+Also, you can also craft tombstones at a heavy workbench.
+
+
+This was created mainly for myself, but I hope you like it.

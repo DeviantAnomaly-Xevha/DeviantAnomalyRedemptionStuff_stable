@@ -1,0 +1,5 @@
+displayName = [1.4 Alpha-Stable] DeviantAnomaly's Redemption stuff
+author = DeviantAnomaly
+version = 2022.07.05
+loadAfter = Redemption
+homepage = https://discord.gg/J25aSxCadzO
